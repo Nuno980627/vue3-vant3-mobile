@@ -9,6 +9,7 @@ import Layout from '@/components/Layout'
 export default defineComponent({
   components: {
     Layout
-  }
+  },
+  methods: {}
 })
 </script>
